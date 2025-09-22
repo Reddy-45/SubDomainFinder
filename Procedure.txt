@@ -1,0 +1,7 @@
+Procedure for finding SubDomain:--
+downlaod zip file and open in vs code 
+open new ternimal and hit cmd.
+In terminal run our subfinder.js file. 
+TO run: node subfinder.js
+It automatically downlaods node modules and asks to enter a domain name.
+Finds subdomains of a domain and stores in results.json, results.csv.
